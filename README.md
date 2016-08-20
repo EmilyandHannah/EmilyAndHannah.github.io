@@ -1,0 +1,3 @@
+This is our new website! I hope... 
+We will be making it using HTML that we learned from:
+www.KhanAcademy.com/computing/computer-programming/
